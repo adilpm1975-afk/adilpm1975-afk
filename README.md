@@ -1,109 +1,65 @@
-<div align="center">
+# Hi, I'm Adil P M 👋
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · adilpm1975-afk</sub></p>
-<h1>Adil P M</h1>
-<h2>Backend or systems engineer</h2>
-<p>DevOps Engineer | AWS &amp; Azure Cloud | Docker | Kubernetes | Terraform | Jenkins CI/CD | Cloud Security</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Bengaluru, Karnataka, India</sub></p>
-<p><a href="https://github.com/adilpm1975-afk">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/325325533?u=21455d2b18ac65f3918ec83856b4108a7eee6e09&amp;v=4" width="180" alt="Adil P M GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
+### DevOps Engineer | Cloud & Infrastructure Automation
 
-<h2>What teams can evaluate quickly</h2>
+I am a DevOps Engineer focused on cloud-native technologies, CI/CD pipelines, and infrastructure automation. I enjoy building scalable, resilient systems, improving deployment workflows, and collaborating to solve operational problems.
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · Python</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>2 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>5 contributions · 3 active days</p></td>
-</tr>
-</table>
+## About me
 
-<p><sub>DevOps Engineer | AWS &amp; Azure Cloud | Docker | Kubernetes | Terraform | Jenkins CI/CD | Cloud Security</sub></p>
+- Based in Bengaluru, Karnataka, India
+- Interested in AWS, Azure, Kubernetes, Terraform, automation, monitoring, and cloud security
+- **Email:** adilpm1975@gmail.com
+- **Languages:** English, Malayalam, Tamil, and Hindi
 
-<h2>Proof at a glance</h2>
+## Technical skills
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>2</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+| Area | Tools and technologies |
+| --- | --- |
+| Cloud | AWS (EC2, S3, IAM, VPC, CloudWatch, EBS, Auto Scaling, ELB) and Azure (Virtual Machines, Entra ID, Storage, Backup, Load Balancer, Bastion, NSG) |
+| Infrastructure as Code | Terraform - init, plan, apply, and destroy |
+| Containers | Docker, Dockerfiles, Docker Hub, Kubernetes, Minikube, Kind |
+| CI/CD & Source Control | Jenkins (Freestyle and Declarative Pipelines), Git, GitHub, pull requests, branching, merging, rebasing, stashing, and conflict resolution |
+| Networking & Security | IPv4, subnetting, internet gateways, NAT, VPC networking, Azure VNets, Network Security Groups, backup, and recovery services |
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Adil P M GitHub proof metrics" />
-</picture>
-</p>
+## What I've worked on
 
-<h2>Selected work</h2>
+- Provisioned AWS infrastructure with EC2, S3, IAM, and VPC; automated resource provisioning with Terraform.
+- Deployed containerized applications with Docker and Kubernetes, and supported Kubernetes scaling and availability.
+- Built Jenkins CI/CD pipelines integrated with Git and GitHub.
+- Managed Azure Virtual Machines, VNets, NSGs, VM Scale Sets, Load Balancers, Application Gateway, Storage, Backup, and Recovery Services Vault.
+- Monitored VM and network health using VM Insights and health checks.
+- Created and maintained GitHub repositories and branching workflows, including feature branches and pull requests.
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&repos=adilpm1975-afk%2Fadilpm1975-afk%2Cadilpm1975-afk%2Fbehavior-aware-cloud-security-monitoring-using-hybrid-machine-learning-models&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&repos=adilpm1975-afk%2Fadilpm1975-afk%2Cadilpm1975-afk%2Fbehavior-aware-cloud-security-monitoring-using-hybrid-machine-learning-models&v=recruiter-projects-1&mode=dark" width="100%" alt="Adil P M selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/adilpm1975-afk/adilpm1975-afk">adilpm1975-afk</a></h3>
-<p>My GitHub profile</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/adilpm1975-afk/adilpm1975-afk">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+## Featured project
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/adilpm1975-afk/behavior-aware-cloud-security-monitoring-using-hybrid-machine-learning-models">behavior-aware-cloud-security-monitoring-using-hybrid-machine-learning-models</a></h3><p>Behavior-aware cloud security monitoring using hybrid machine learning models.</p><p><sub>Python · ⭐ 0</sub></p></td>
-</tr>
-</table>
+### Behaviour-Aware Cloud Security Monitoring
+*Anna University*
 
-<h2>Technical toolkit</h2>
+- Designed a cloud-security monitoring solution that analyzes Apache access logs to identify suspicious user activity.
+- Applied log analysis and behavioural monitoring to detect unusual access patterns and potential threats.
+- Strengthened practical knowledge of cloud security, access monitoring, threat detection, and security analytics.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Adil P M technology stack" />
-</picture>
-</p>
+## Experience
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><strong>Python</strong><br /><sub>100% of public code</sub></td>
-</tr>
-</table>
+**AWS Cloud Intern** - EMGLITZ Technologies  
+*Nov 2025 - Jan 2026*
 
-<h2>Consistency signal</h2>
+- Gained hands-on exposure to AWS cloud services and cloud infrastructure.
+- Assisted with provisioning and configuring EC2, S3, IAM, and VPC resources.
+- Supported cloud deployment, networking, and infrastructure-management tasks.
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=adilpm1975-afk&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F325325533%3Fu%3D21455d2b18ac65f3918ec83856b4108a7eee6e09%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Adil P M contribution activity" />
-</picture>
-</p>
+**Cybersecurity Intern** - TechByHeart  
+*2022*
 
-<hr />
+- Studied network security, threat analysis, and vulnerability concepts.
+- Monitored network traffic and investigated potential security threats using industry-standard tools and frameworks.
+- Gained exposure to ethical-hacking fundamentals, firewall configuration, and security-policy documentation.
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/adilpm1975-afk">GitHub</a></td>
-</tr>
-</table>
+## Education
 
-<p align="center"><sub>Adil P M · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+- **B.E., Computer Science and Engineering (Cybersecurity)** - Dhanalakshmi Srinivasan College of Engineering, Anna University *(2022 - 2026)*
+- **Higher Secondary Education, Computer Science** - Board of Higher Secondary Examinations, Government of Kerala *(2022)*
+
+---
+
+*Open to opportunities where I can contribute to reliable cloud platforms, automation, and DevOps practices.*
